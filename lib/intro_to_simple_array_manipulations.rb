@@ -37,3 +37,11 @@ end
 def pop_with_args(array)
   array.pop(2)
 end 
+
+def using_push(array, text)
+  array.push(text)
+end
+
+def using_unshift(array, text)
+  array.unshift(text)
+end
