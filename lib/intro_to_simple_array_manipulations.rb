@@ -6,3 +6,6 @@ def using_delete(array, index)
   array.delete(index)
 end 
 
+def using_flatten(array)
+  
+end
